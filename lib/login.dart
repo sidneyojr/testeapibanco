@@ -8,7 +8,7 @@ class Login extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text('TESTE API BANCO- LOGIN'),
-        backgroundColor: Color.fromARGB(255, 0, 5, 8),
+        backgroundColor: Color.fromARGB(255, 150, 206, 241),
         centerTitle: true,
       ),
       body: Center(

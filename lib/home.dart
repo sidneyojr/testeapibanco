@@ -11,7 +11,7 @@ class Home extends StatelessWidget {
         centerTitle: true,
         title: const Text('TESTE API BANCO - INÍCIO'),
         backgroundColor:
-            Color.fromARGB(255, 0, 5, 8), // Manter a app bar no azul
+            Color.fromARGB(255, 150, 206, 241), // Manter a app bar no azul
       ),
       body: Center(
         child: Column(
