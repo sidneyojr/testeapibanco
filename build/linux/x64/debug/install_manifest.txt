@@ -6,6 +6,7 @@
 /home/sidney/Documentos/FATEC/SEM7DPs/LabEngenhariaSoftware/testeapibanco/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
 /home/sidney/Documentos/FATEC/SEM7DPs/LabEngenhariaSoftware/testeapibanco/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
 /home/sidney/Documentos/FATEC/SEM7DPs/LabEngenhariaSoftware/testeapibanco/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/sidney/Documentos/FATEC/SEM7DPs/LabEngenhariaSoftware/testeapibanco/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
 /home/sidney/Documentos/FATEC/SEM7DPs/LabEngenhariaSoftware/testeapibanco/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
 /home/sidney/Documentos/FATEC/SEM7DPs/LabEngenhariaSoftware/testeapibanco/build/linux/x64/debug/bundle/data/flutter_assets/version.json
 /home/sidney/Documentos/FATEC/SEM7DPs/LabEngenhariaSoftware/testeapibanco/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
